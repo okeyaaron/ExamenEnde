@@ -8,10 +8,11 @@ public class Casa {
 	
 	
 	/**
-	 * Un equipo de limpiadores deja la casa libre de germenes y desinfecta las superficies
+	 * Un equipo de ladrones deja la casa limpia y roba hasta el cobre de las paredes
 	 */
 	
 	public void limpiarLaCasa() {
+
 		System.out.println("Te hemos limpiado la casa, esta desinfectada");
 	}
 	
