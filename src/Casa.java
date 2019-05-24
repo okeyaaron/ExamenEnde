@@ -14,6 +14,7 @@ public class Casa {
 	public void limpiarLaCasa() {
 
 		System.out.println("Te hemos limpiado la casa, esta desinfectada");
+		
 	}
 	
 }
